@@ -1,5 +1,5 @@
 
-# Pythia 8 Package
+# Pythia 8 Package (2.44)
 
 Pythia event generator
 
@@ -20,4 +20,6 @@ export PYTHIA8_INCLUDE=${PWD}/include
 http://home.thep.lu.se/~torbjorn/Pythia.html
 
 
+## Download:
 
+http://home.thep.lu.se/~torbjorn/pythia8/pythia8244.tgz
