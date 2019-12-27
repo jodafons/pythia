@@ -15,7 +15,9 @@ export PYTHIA8_LIBRARY=${PWD}/lib/archive
 export PYTHIA8_INCLUDE=${PWD}/include
 ```
 
+## Homepage:
 
+http://home.thep.lu.se/~torbjorn/Pythia.html
 
 
 
